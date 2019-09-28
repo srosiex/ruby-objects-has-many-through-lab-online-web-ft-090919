@@ -1,5 +1,5 @@
 
-@@ -0,0 +1,24 @@
+
 class Patient
 
   attr_reader :name, :appointment, :doctor
